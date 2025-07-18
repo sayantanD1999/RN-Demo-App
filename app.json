@@ -38,6 +38,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "87c5544a-7358-4a0d-b259-e33ae6b93d52"
+      }
+    },
+    "owner": "sayantan.dutta"
   }
 }
