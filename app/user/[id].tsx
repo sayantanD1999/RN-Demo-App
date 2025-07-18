@@ -7,7 +7,7 @@ export default function Users() {
   return (
     <View>
       <Text>User ID: {id}</Text>
-      <Text>Limit: {limit}</Text>
+      <Text>Limit:{limit}</Text>
     </View>
   );
 }

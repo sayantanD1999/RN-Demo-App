@@ -9,7 +9,10 @@
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "runtimeVersion": {
+        "policy": "appVersion"
+      }
     },
     "android": {
       "adaptiveIcon": {
@@ -17,7 +20,8 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.sayantan.dutta.demoapp"
+      "package": "com.sayantan.dutta.demoapp",
+      "runtimeVersion": "1.0.0"
     },
     "web": {
       "bundler": "metro",
@@ -45,6 +49,9 @@
         "projectId": "87c5544a-7358-4a0d-b259-e33ae6b93d52"
       }
     },
-    "owner": "sayantan.dutta"
+    "owner": "sayantan.dutta",
+    "updates": {
+      "url": "https://u.expo.dev/87c5544a-7358-4a0d-b259-e33ae6b93d52"
+    }
   }
 }
