@@ -46,12 +46,12 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "87c5544a-7358-4a0d-b259-e33ae6b93d52"
+        "projectId": "58f618a2-ca61-4478-9ebf-d48d93854646"
       }
     },
     "owner": "sayantan.dutta",
     "updates": {
-      "url": "https://u.expo.dev/87c5544a-7358-4a0d-b259-e33ae6b93d52"
+      "url": "https://u.expo.dev/58f618a2-ca61-4478-9ebf-d48d93854646"
     }
   }
 }
